@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ar.js": "^2.2.2",
+    "next": "15.0.1",
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-dom": "19.0.0-rc-69d4b800-20241021",
-    "next": "15.0.1"
+    "three": "^0.169.0",
+    "webxr": "^0.0.0"
   },
   "devDependencies": {
     "eslint": "^8",
